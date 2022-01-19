@@ -6,3 +6,5 @@ Covering **publishing** and **subscribing** in namely Python and C++, as well as
 
 Packages ending with 'final' contains final code resulting from the workshop (hence the name).
 
+
+![ Ehm..](confusedROV. gif) / ! [](confusedROV. gif)
